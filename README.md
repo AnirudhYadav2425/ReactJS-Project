@@ -15,7 +15,7 @@ Anirudh Yadav
 
 💻 GitHub: github.com/AnirudhYadav2425
 
-🌐 Portfolio: anirudhyadav2425.github.io
+🌐 Portfolio: https://anirudhyadav2425.github.io/AnirudhYadav.io/
 
 📂 Project Structure
 project-root/
