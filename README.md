@@ -11,9 +11,9 @@ Anirudh Yadav
 
 📞 Phone: +91-6307621061
 
-🔗 LinkedIn: linkedin.com/in/anirudh-yadav-6a39b1306
+🔗 LinkedIn: https://linkedin.com/in/anirudh-yadav-6a39b1306
 
-💻 GitHub: github.com/AnirudhYadav2425
+💻 GitHub: https://github.com/AnirudhYadav2425
 
 🌐 Portfolio: https://anirudhyadav2425.github.io/AnirudhYadav.io/
 
